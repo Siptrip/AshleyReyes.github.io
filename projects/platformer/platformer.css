@@ -3,9 +3,11 @@ body {
 }
 
 canvas {
-  background-color: lightgray;
+  background-image: url("https://s3.amazonaws.com/gameartpartnersimagehost/wp-content/uploads/2018/03/Game_Background_188.png");
+  background-color: rgb(245, 241, 241);
 }
 
 img {
   display: none;
+  
 }

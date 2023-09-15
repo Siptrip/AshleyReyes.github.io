@@ -95,7 +95,7 @@ var collectableList = {
   diamond: { image: "images/collectables/diamond-head.png" },
   grace: { image: "images/collectables/grace-head.png" },
   kennedi: { image: "images/collectables/kennedi-head.png" },
-  max: { image: "images/collectables/max-head.png" },
-  steve: { image: "images/collectables/steve-head.png" },
+  star: { image: "images/collectables/MarioStar.png" },
+  gem1: { image: "images/collectables/Calamity_Gems.png" },
   coin: { image: "images/collectables/MM2CoinIcon.png" },
 };
