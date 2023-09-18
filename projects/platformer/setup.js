@@ -97,5 +97,5 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   star: { image: "images/collectables/MarioStar.png" },
   gem1: { image: "images/collectables/Calamity_Gems.png" },
-  coin: { image: "images/collectables/MM2CoinIcon.png" },
+  coin: { image: "images/collectables/SonicRing.png" },
 };

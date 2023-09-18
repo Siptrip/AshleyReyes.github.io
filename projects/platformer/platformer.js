@@ -59,9 +59,9 @@ createPlatform(300,200,20,9);
     // Your collectable choices are 'database' 'diamond' 'grace' 'kennedi' 'max' and 'steve'; more can be added if you wish
     // example usage: createCollectable(type, x, y, gravity, bounce)
 
-createCollectable("star",200,200,0,0);
-createCollectable("star",600,300,0,0);
-createCollectable("star",0,700,20,0.5);
+createCollectable("coin",200,200,0,0);
+createCollectable("coin",600,300,0,0);
+createCollectable("coin",0,700,20,0.5);
     // TODO 3
     // Create cannons
     // You must decide the wall you want the cannon on, the position on the wall, and the time between shots in milliseconds
