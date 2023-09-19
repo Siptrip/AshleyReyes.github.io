@@ -60,7 +60,7 @@ createPlatform(300,200,20,9);
     // example usage: createCollectable(type, x, y, gravity, bounce)
 
 createCollectable("coin",200,200,0,0);
-createCollectable("coin",600,300,0,0);
+createCollectable("coin",600,200,0,0);
 createCollectable("coin",0,700,20,0.5);
     // TODO 3
     // Create cannons
