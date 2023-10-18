@@ -68,7 +68,7 @@ createCollectable("coin",0,700,20,0.5);
     // Your wall choices are: 'top' 'left' 'right' and 'bottom'
     // example usage: createCannon(side, position, delay, width, height)
 
-createCannon("left",600,100,20);
+createCannon("left",600,900,20);
 createCannon("right",600,1300,20,);
 createCannon("top",600,1000,20);
 createCannon("bottom",600,2000,20);
