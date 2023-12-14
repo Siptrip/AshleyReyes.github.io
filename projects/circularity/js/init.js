@@ -21,18 +21,19 @@ var init = function (window) {
         
         // TODO 1 : Declare and initialize our variables
         var circle; 
-        var circles;
+        var circles = []; 
 
         // TODO 2 : Create a function that draws a circle 
         function drawCircle(){
-            
         }
         // TODO 3 / 7 : Call the drawCircle() function 
         function drawCircle(){
-            circle = circle + 5
+            for(var i = 0; i < 5; i++){
+                
+            }
         }
 
-        ////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////////////////
         ///////////////// PROGRAM LOGIC ////////////////////////////
         ////////////////////////////////////////////////////////////
         
